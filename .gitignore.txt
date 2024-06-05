@@ -1,0 +1,27 @@
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore node_modules if you have any JavaScript dependencies
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore build output
+build/
+dist/
+
+# Ignore Lens Studio generated files
+*.lproj.workspace/
+*.lproj.workspace.lock
+
+# Ignore Unity related files if using Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+AssetStoreTools/
