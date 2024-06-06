@@ -1,6 +1,7 @@
 # TryOnCloth - Filtro de Prueba de Ropa para Snapchat
 
 Este proyecto es un filtro de realidad aumentada para Snapchat que permite a los usuarios probarse virtualmente tres diferentes cambios de ropa. Utiliza Lens Studio para crear la experiencia de RA y está diseñado para ser fácil de usar y personalizar.
+P.D. Esta versión es solo un prototipo por lo que solo tiene un vestido.
 
 ## Características
 
