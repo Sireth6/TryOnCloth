@@ -23,10 +23,10 @@ P.D. Esta versión es solo un prototipo por lo que solo tiene un vestido.
    git clone https://github.com/Sireth6/TryOnCloth
 Abrir el Proyecto en Lens Studio
 
+Exporta el .rar que esta en la carpeta "Lens".
 Abre Lens Studio.
 Selecciona File > Open Project.
 Navega hasta la carpeta lens del proyecto clonado y selecciona el archivo TryOnDress.lproj.
-Uso
 Importar Modelos y Texturas
 
 Coloca tus modelos 3D y texturas en la carpeta assets.
