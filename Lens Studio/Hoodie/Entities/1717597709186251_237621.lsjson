@@ -1,0 +1,39 @@
+{
+    "1717597709179469:237620": {
+        "IFileManager": {
+            "path": "Files/File_1717597709179469_237620"
+        }
+    },
+    "1717597709186251:237621": {
+        "IResourceController": {
+            "name": "Galaxia",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717597709197511:237624",
+            "fileId": "1717597709179469:237620",
+            "originalId": "1717597709198466:237631",
+            "publicId": "1717597709223476:237632",
+            "expected_hash": "5240209c1fca97bf9970e2ff5a51d8db"
+        },
+        "IResourceManager": {
+            "uid": "1717597709197511:237624",
+            "name": "Files/File_1717597709179469_237620",
+            "flags": 1
+        }
+    },
+    "1717597709198466:237631": {
+        "IFileManager": {
+            "path": "Files/File_1717597709198466_237631.gif"
+        }
+    },
+    "1717597709223476:237632": {
+        "IResourceController": {
+            "public": {
+                "path": "Galaxia.gif",
+                "hash": "4e9369d0b23613c19cae6b1ff8f856f2"
+            }
+        }
+    }
+}

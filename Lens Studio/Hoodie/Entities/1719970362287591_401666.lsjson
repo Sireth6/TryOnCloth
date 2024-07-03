@@ -1,0 +1,50 @@
+{
+    "1719970362287591:401666": {
+        "IResourceController": {
+            "name": "hoodie",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1719970408941222:406525",
+            "publicId": "1719970408975439:406528",
+            "expected_hash": "5176aafc939cb8c8a8ff9c2aa0e5ebae",
+            "resources": [
+                "1719970408055908:406324",
+                "1719970408152949:406360",
+                "1719970408899037:406504"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Default_Material",
+                        "v": "1719970408156683:406363"
+                    }
+                ]
+            }
+        }
+    },
+    "1719970408941222:406525": {
+        "IFileManager": {
+            "path": "Files/File_1719970408941222_406525.fbx"
+        }
+    },
+    "1719970408975439:406528": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - Hoodie/hoodie.fbx",
+                "hash": "5176aafc939cb8c8a8ff9c2aa0e5ebae"
+            }
+        }
+    }
+}
