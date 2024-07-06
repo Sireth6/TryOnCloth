@@ -1,0 +1,30 @@
+{
+    "1720305549276586:48919": {
+        "IResourceController": {
+            "name": "DownJacket",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1720305549276390:48855",
+            "fileId": "1720305549313696:48992",
+            "originalId": "1720305898699253:113520",
+            "expected_hash": "ec908d79ed6561b04cce8e996f84f49c"
+        },
+        "IResourceManager": {
+            "uid": "1720305549276390:48855",
+            "name": "DownJacket",
+            "flags": 0
+        }
+    },
+    "1720305549313696:48992": {
+        "IFileManager": {
+            "path": "Files/File_1720305549313696_48992.oprfb"
+        }
+    },
+    "1720305898699253:113520": {
+        "IFileManager": {
+            "path": "Files/File_1720305898699253_113520.oprfb"
+        }
+    }
+}

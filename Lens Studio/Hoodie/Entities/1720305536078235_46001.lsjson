@@ -1,0 +1,39 @@
+{
+    "1720305536075681:45995": {
+        "IFileManager": {
+            "path": "Files/File_1720305536075681_45995"
+        }
+    },
+    "1720305536078235:46001": {
+        "IResourceController": {
+            "name": "DownJacketMaterial",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720305536078245:46002",
+            "fileId": "1720305536075681:45995",
+            "originalId": "1720305536110138:46012",
+            "publicId": "1720305537446599:46296",
+            "expected_hash": "fc3beb0d454eb15c3ea2f849b4bbb9d9"
+        },
+        "IResourceManager": {
+            "uid": "1720305536078245:46002",
+            "name": "Files/File_1720305536075681_45995",
+            "flags": 1
+        }
+    },
+    "1720305536110138:46012": {
+        "IFileManager": {
+            "path": "Files/File_1720305536110138_46012.lsmat"
+        }
+    },
+    "1720305537446599:46296": {
+        "IResourceController": {
+            "public": {
+                "path": "Down Jacket/DownJacketMaterial.lsmat",
+                "hash": "f5b8747ce04e227c4ec4784566da04f6"
+            }
+        }
+    }
+}
