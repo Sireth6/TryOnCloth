@@ -15,6 +15,9 @@
             "fileId": "1720305545886203:48075",
             "expected_hash": "adab75b6d3f7fafae771996fc977c905",
             "additional": {
+                "externalBodyLink": [
+                    "1720306504129405:166192"
+                ],
                 "info": {
                     "hasBlendShapes": "false",
                     "vertexAttribs": [
