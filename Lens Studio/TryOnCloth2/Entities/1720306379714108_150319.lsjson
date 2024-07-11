@@ -1,0 +1,44 @@
+{
+    "1720306379708803:150318": {
+        "IFileManager": {
+            "path": "Files/File_1720306379708803_150318"
+        }
+    },
+    "1720306379714108:150319": {
+        "IResourceController": {
+            "name": "TapToChange",
+            "type": 4,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720306379714138:150320",
+            "fileId": "1720306379708803:150318",
+            "originalId": "1720306379714477:150324",
+            "publicId": "1720306379776776:150359",
+            "expected_hash": "4d22bb0e3464674d9946b2d0a803a4b4"
+        },
+        "IResourceManager": {
+            "uid": "1720306379714138:150320",
+            "name": "Files/File_1720306379708803_150318",
+            "flags": 1
+        }
+    },
+    "1720306379714138:150320": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1720306379714477:150324": {
+        "IFileManager": {
+            "path": "Files/File_1720306379714477_150324.lsscript"
+        }
+    },
+    "1720306379776776:150359": {
+        "IResourceController": {
+            "public": {
+                "path": "TapToChange.lsscript",
+                "hash": "d3110544124b54d1541a7d0dc3ae261f"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1720648428687927:117098": {
+        "IFileManager": {
+            "path": "Files/File_1720648428687927_117098"
+        }
+    },
+    "1720648428690238:117099": {
+        "IResourceController": {
+            "name": "Reflective_Glitter__EDIT_ME_",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720648428690244:117100",
+            "fileId": "1720648428687927:117098",
+            "originalId": "1720648428717899:117104",
+            "publicId": "1720648429154842:117132",
+            "expected_hash": "4ac4085f2de62f8f7aa5bed498f7d69b"
+        },
+        "IResourceManager": {
+            "uid": "1720648428690244:117100",
+            "name": "Files/File_1720648428687927_117098",
+            "flags": 1
+        }
+    },
+    "1720648428717899:117104": {
+        "IFileManager": {
+            "path": "Files/File_1720648428717899_117104.lsmat"
+        }
+    },
+    "1720648429154842:117132": {
+        "IResourceController": {
+            "public": {
+                "path": "Reflective_Glitter__EDIT_ME_.lsmat",
+                "hash": "5ddac58711980f6b7720d9bb5cd99926"
+            }
+        }
+    }
+}

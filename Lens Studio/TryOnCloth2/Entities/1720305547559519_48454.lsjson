@@ -1,0 +1,39 @@
+{
+    "1720305547556844:48453": {
+        "IFileManager": {
+            "path": "Files/File_1720305547556844_48453"
+        }
+    },
+    "1720305547559519:48454": {
+        "IResourceController": {
+            "name": "initialShadingGroup9 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720305547559526:48455",
+            "fileId": "1720305547556844:48453",
+            "originalId": "1720305547592275:48459",
+            "publicId": "1720305549457691:49053",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1720305547559526:48455",
+            "name": "Files/File_1720305547556844_48453",
+            "flags": 1
+        }
+    },
+    "1720305547592275:48459": {
+        "IFileManager": {
+            "path": "Files/File_1720305547592275_48459.lsmat"
+        }
+    },
+    "1720305549457691:49053": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Down Jacket/DownJacket/Materials/initialShadingGroup9 2.lsmat",
+                "hash": "a720ed245f77069250f38b8e5c987967"
+            }
+        }
+    }
+}

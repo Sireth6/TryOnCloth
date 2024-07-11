@@ -1,0 +1,39 @@
+{
+    "1719970408153937:406361": {
+        "IFileManager": {
+            "path": "Files/File_1719970408153937_406361"
+        }
+    },
+    "1719970408156675:406362": {
+        "IResourceController": {
+            "name": "Default_Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1719970408156683:406363",
+            "fileId": "1719970408153937:406361",
+            "originalId": "1719970408197567:406369",
+            "publicId": "1719970408985859:406530",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1719970408156683:406363",
+            "name": "Files/File_1719970408153937_406361",
+            "flags": 1
+        }
+    },
+    "1719970408197567:406369": {
+        "IFileManager": {
+            "path": "Files/File_1719970408197567_406369.lsmat"
+        }
+    },
+    "1719970408985859:406530": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Try On Pack - Hoodie/hoodie/Materials/Default_Material.lsmat",
+                "hash": "c2c378b9798cc3373ec4270523a9faee"
+            }
+        }
+    }
+}

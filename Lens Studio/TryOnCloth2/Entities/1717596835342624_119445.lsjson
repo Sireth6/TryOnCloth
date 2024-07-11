@@ -1,0 +1,50 @@
+{
+    "1717596835342624:119445": {
+        "IResourceController": {
+            "name": "Vestido2",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1717596837555653:119664",
+            "publicId": "1717596837591655:119667",
+            "expected_hash": "7b659c1a8f8554dbf3ad466b37b036e7",
+            "resources": [
+                "1717596836919750:119458",
+                "1717596836948894:119474",
+                "1717596837516337:119643"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "FABRIC 1_FRONT_1848",
+                        "v": "1717596836951983:119477"
+                    }
+                ]
+            }
+        }
+    },
+    "1717596837555653:119664": {
+        "IFileManager": {
+            "path": "Files/File_1717596837555653_119664.fbx"
+        }
+    },
+    "1717596837591655:119667": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Vestido2.fbx",
+                "hash": "7b659c1a8f8554dbf3ad466b37b036e7"
+            }
+        }
+    }
+}

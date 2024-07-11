@@ -1,0 +1,79 @@
+{
+    "1719970409998339:407064": {
+        "IFileManager": {
+            "path": "Files/File_1719970409998339_407064.pvr"
+        }
+    },
+    "1719970410002442:407065": {
+        "IResourceController": {
+            "name": "hoodie_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1719970410003411:407066",
+            "fileId": "1719970409998339:407064",
+            "originalId": "1719970410003869:407071",
+            "publicId": "1719970410065924:407080",
+            "expected_hash": "842b49625fb857bcaf0b7eeb351ac506",
+            "additional": {
+                "originHash": "b6fa23e211abad118e406b99bd5807eb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1719970410003411:407066",
+            "name": "Files/File_1719970409998339_407064.jpg",
+            "flags": 1
+        }
+    },
+    "1719970410003411:407066": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b6fa23e211abad118e406b99bd5807eb"
+                    },
+                    "v": "1719970448876984:424270"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "148718",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "120455",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1719970410032509:407079"
+        }
+    },
+    "1719970410003869:407071": {
+        "IFileManager": {
+            "path": "Files/File_1719970410003869_407071.png"
+        }
+    },
+    "1719970410032509:407079": {
+        "IFileManager": {
+            "path": "Files/File_1719970410032509_407079.png"
+        }
+    },
+    "1719970410065924:407080": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/hoodie_d.png",
+                "hash": "b6fa23e211abad118e406b99bd5807eb"
+            }
+        }
+    },
+    "1719970448876984:424270": {
+        "IFileManager": {
+            "path": "Files/File_1719970448876984_424270.pvr"
+        }
+    }
+}

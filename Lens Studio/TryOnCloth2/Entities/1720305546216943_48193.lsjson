@@ -1,0 +1,26 @@
+{
+    "1720305546216943:48193": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1720305549440123:49018",
+            "resources": [
+                "1720305546220422:48195",
+                "1720305546967702:48341",
+                "1720305547559519:48454",
+                "1720305548104089:48554",
+                "1720305548670051:48667"
+            ]
+        }
+    },
+    "1720305549440123:49018": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Down Jacket/DownJacket/Materials"
+            }
+        }
+    }
+}

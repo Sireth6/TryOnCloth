@@ -1,0 +1,24 @@
+{
+    "1719970324144304:390780": {
+        "IResourceController": {
+            "name": "Try On Pack - T Shirt",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1719970324144591:390781",
+            "resources": [
+                "1719970324146976:390784",
+                "1719970343212258:393254",
+                "1719970344587172:393451"
+            ]
+        }
+    },
+    "1719970324144591:390781": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt"
+            }
+        }
+    }
+}

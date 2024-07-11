@@ -1,0 +1,24 @@
+{
+    "1719970550544976:446127": {
+        "IResourceController": {
+            "name": "Full Body Mesh - Hoodie",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1719970550544969:446126",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1719970683586765_463360.extmesh"
+                ],
+                "externalBodyMapFileID": "1719970683586765:463360",
+                "externalBodyMapFilepath": "Files/File_1719970683586765_463360.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1719970550544969:446126",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

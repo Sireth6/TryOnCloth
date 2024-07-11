@@ -1,0 +1,79 @@
+{
+    "1720305536548582:46144": {
+        "IFileManager": {
+            "path": "Files/File_1720305536548582_46144.pvr"
+        }
+    },
+    "1720305536551823:46145": {
+        "IResourceController": {
+            "name": "Vest_opacity_1001",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720305536552700:46146",
+            "fileId": "1720305536548582:46144",
+            "originalId": "1720305536553224:46151",
+            "publicId": "1720305536607070:46160",
+            "expected_hash": "87be6663b09475dd3ce3f15191d0b540",
+            "additional": {
+                "originHash": "b19168578f5b794297318bb169add627"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1720305536552700:46146",
+            "name": "Files/File_1720305536548582_46144.jpg",
+            "flags": 1
+        }
+    },
+    "1720305536552700:46146": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b19168578f5b794297318bb169add627"
+                    },
+                    "v": "1720305541465002:47283"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "11920",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "6056",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1720305536578205:46159"
+        }
+    },
+    "1720305536553224:46151": {
+        "IFileManager": {
+            "path": "Files/File_1720305536553224_46151.png"
+        }
+    },
+    "1720305536578205:46159": {
+        "IFileManager": {
+            "path": "Files/File_1720305536578205_46159.png"
+        }
+    },
+    "1720305536607070:46160": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Vest_opacity_1001.png",
+                "hash": "b19168578f5b794297318bb169add627"
+            }
+        }
+    },
+    "1720305541465002:47283": {
+        "IFileManager": {
+            "path": "Files/File_1720305541465002_47283.pvr"
+        }
+    }
+}
