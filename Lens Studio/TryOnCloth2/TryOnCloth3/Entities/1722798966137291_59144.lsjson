@@ -1,0 +1,38 @@
+{
+    "1722798966132898:59143": {
+        "IFileManager": {
+            "path": "Files/File_1722798966132898_59143.js"
+        }
+    },
+    "1722798966137291:59144": {
+        "IResourceController": {
+            "name": "ShopNowButton",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1722798966137334:59145",
+            "fileId": "1722798966132898:59143",
+            "publicId": "1722798966147929:59150",
+            "expected_hash": "8ad9585393ba8ca6ee6eac764c435957"
+        },
+        "IResourceManager": {
+            "uid": "1722798966137334:59145",
+            "name": "Files/File_1722798966132898_59143.js",
+            "flags": 1
+        }
+    },
+    "1722798966137334:59145": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1722798966147929:59150": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ShopNowButton.js",
+                "hash": "8ad9585393ba8ca6ee6eac764c435957"
+            }
+        }
+    }
+}

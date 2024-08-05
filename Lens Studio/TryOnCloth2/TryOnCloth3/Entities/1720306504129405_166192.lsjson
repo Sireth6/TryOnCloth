@@ -1,0 +1,24 @@
+{
+    "1720306504129405:166192": {
+        "IResourceController": {
+            "name": "Full Body Mesh - Down Jacket",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720306504129396:166191",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1720306504133989_166202.extmesh"
+                ],
+                "externalBodyMapFileID": "1720306504133989:166202",
+                "externalBodyMapFilepath": "Files/File_1720306504133989_166202.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1720306504129396:166191",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

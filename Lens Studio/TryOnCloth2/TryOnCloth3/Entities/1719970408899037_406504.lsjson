@@ -1,0 +1,30 @@
+{
+    "1719970408899037:406504": {
+        "IResourceController": {
+            "name": "hoodie",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1719970408898959:406488",
+            "fileId": "1719970408935052:406524",
+            "originalId": "1719971775681704:696236",
+            "expected_hash": "416bf1461bd2e36b0f3e0e141a197125"
+        },
+        "IResourceManager": {
+            "uid": "1719970408898959:406488",
+            "name": "hoodie",
+            "flags": 0
+        }
+    },
+    "1719970408935052:406524": {
+        "IFileManager": {
+            "path": "Files/File_1719970408935052_406524.oprfb"
+        }
+    },
+    "1719971775681704:696236": {
+        "IFileManager": {
+            "path": "Files/File_1719971775681704_696236.oprfb"
+        }
+    }
+}

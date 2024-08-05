@@ -1,0 +1,79 @@
+{
+    "1720648440926774:119725": {
+        "IFileManager": {
+            "path": "Files/File_1720648440926774_119725.pvr"
+        }
+    },
+    "1720648440930318:119726": {
+        "IResourceController": {
+            "name": "knit_albedo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1720648440931251:119727",
+            "fileId": "1720648440926774:119725",
+            "originalId": "1720648440931747:119732",
+            "publicId": "1720648440975977:119739",
+            "expected_hash": "787f0e36e7faf6fa03c7d8399de1eeca",
+            "additional": {
+                "originHash": "eeb5bb2e066ea5fda92c347b6da1d574"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1720648440931251:119727",
+            "name": "Files/File_1720648440926774_119725.jpg",
+            "flags": 1
+        }
+    },
+    "1720648440931251:119727": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "eeb5bb2e066ea5fda92c347b6da1d574"
+                    },
+                    "v": "1720648446105101:122327"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "83954",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "74304",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1720648440951627:119738"
+        }
+    },
+    "1720648440931747:119732": {
+        "IFileManager": {
+            "path": "Files/File_1720648440931747_119732.png"
+        }
+    },
+    "1720648440951627:119738": {
+        "IFileManager": {
+            "path": "Files/File_1720648440951627_119738.png"
+        }
+    },
+    "1720648440975977:119739": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/knit_albedo.png",
+                "hash": "eeb5bb2e066ea5fda92c347b6da1d574"
+            }
+        }
+    },
+    "1720648446105101:122327": {
+        "IFileManager": {
+            "path": "Files/File_1720648446105101_122327.pvr"
+        }
+    }
+}

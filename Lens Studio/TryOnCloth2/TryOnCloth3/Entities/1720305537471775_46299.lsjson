@@ -1,0 +1,66 @@
+{
+    "1720305537471775:46299": {
+        "IResourceController": {
+            "name": "DownJacket",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1720305549325116:48993",
+            "publicId": "1720305549433501:49017",
+            "expected_hash": "4e556c0ffc812249bafed39557d152bc",
+            "resources": [
+                "1720305545886174:48074",
+                "1720305546216943:48193",
+                "1720305549276586:48919"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "debardeur_FRONT_2216",
+                        "v": "1720305546220428:48196"
+                    },
+                    {
+                        "k": "initialShadingGroup9",
+                        "v": "1720305546967708:48342"
+                    },
+                    {
+                        "k": "initialShadingGroup9 2",
+                        "v": "1720305547559526:48455"
+                    },
+                    {
+                        "k": "initialShadingGroup9 3",
+                        "v": "1720305548104096:48555"
+                    },
+                    {
+                        "k": "initialShadingGroup9 4",
+                        "v": "1720305548670056:48668"
+                    }
+                ]
+            }
+        }
+    },
+    "1720305549325116:48993": {
+        "IFileManager": {
+            "path": "Files/File_1720305549325116_48993.fbx"
+        }
+    },
+    "1720305549433501:49017": {
+        "IResourceController": {
+            "public": {
+                "path": "Down Jacket/DownJacket.fbx",
+                "hash": "4e556c0ffc812249bafed39557d152bc"
+            }
+        }
+    }
+}

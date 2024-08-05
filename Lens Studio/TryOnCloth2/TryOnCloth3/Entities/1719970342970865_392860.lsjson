@@ -1,0 +1,30 @@
+{
+    "1719970342970865:392860": {
+        "IResourceController": {
+            "name": "tshirt",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1719970342970762:392844",
+            "fileId": "1719970343011179:392891",
+            "originalId": "1719971775647995:696221",
+            "expected_hash": "142b3303f14ed12254956a3a08529241"
+        },
+        "IResourceManager": {
+            "uid": "1719970342970762:392844",
+            "name": "tshirt",
+            "flags": 0
+        }
+    },
+    "1719970343011179:392891": {
+        "IFileManager": {
+            "path": "Files/File_1719970343011179_392891.oprfb"
+        }
+    },
+    "1719971775647995:696221": {
+        "IFileManager": {
+            "path": "Files/File_1719971775647995_696221.oprfb"
+        }
+    }
+}

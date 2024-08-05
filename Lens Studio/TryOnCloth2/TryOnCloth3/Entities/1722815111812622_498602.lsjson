@@ -1,0 +1,38 @@
+{
+    "1722815111808884:498601": {
+        "IFileManager": {
+            "path": "Files/File_1722815111808884_498601.js"
+        }
+    },
+    "1722815111812622:498602": {
+        "IResourceController": {
+            "name": "ShopNowRedirect",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1722815111812650:498603",
+            "fileId": "1722815111808884:498601",
+            "publicId": "1722815111822098:498608",
+            "expected_hash": "39b412a7996e922a6dd78890ba0bae41"
+        },
+        "IResourceManager": {
+            "uid": "1722815111812650:498603",
+            "name": "Files/File_1722815111808884_498601.js",
+            "flags": 1
+        }
+    },
+    "1722815111812650:498603": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1722815111822098:498608": {
+        "IResourceController": {
+            "public": {
+                "path": "ShopNowRedirect.js",
+                "hash": "39b412a7996e922a6dd78890ba0bae41"
+            }
+        }
+    }
+}

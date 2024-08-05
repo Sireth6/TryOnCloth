@@ -1,0 +1,79 @@
+{
+    "1722815071868479:483647": {
+        "IFileManager": {
+            "path": "Files/File_1722815071868479_483647.pvr"
+        }
+    },
+    "1722815071875009:483648": {
+        "IResourceController": {
+            "name": "shop-now-button-online-store-mpy9o2rkxgc4qmw1 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1722815071880732:483649",
+            "fileId": "1722815071868479:483647",
+            "originalId": "1722815071881301:483654",
+            "publicId": "1722815071920726:483656",
+            "expected_hash": "23f5b26fbe1ae3253d794c4e31ecc3fc",
+            "additional": {
+                "originHash": "d6d8e0e192541123e60f75a34a5bc568"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1722815071880732:483649",
+            "name": "Files/File_1722815071868479_483647.png",
+            "flags": 1
+        }
+    },
+    "1722815071880732:483649": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d6d8e0e192541123e60f75a34a5bc568"
+                    },
+                    "v": "1722815072192506:486439"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "242176",
+                "compressedSize": "13936",
+                "extension": "png",
+                "originalRAM": "1925000",
+                "originalSize": "13253",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1722815071889120:483655"
+        }
+    },
+    "1722815071881301:483654": {
+        "IFileManager": {
+            "path": "Files/File_1722815071881301_483654.png"
+        }
+    },
+    "1722815071889120:483655": {
+        "IFileManager": {
+            "path": "Files/File_1722815071889120_483655.png"
+        }
+    },
+    "1722815071920726:483656": {
+        "IResourceController": {
+            "public": {
+                "path": "shop-now-button-online-store-mpy9o2rkxgc4qmw1 2.png",
+                "hash": "d6d8e0e192541123e60f75a34a5bc568"
+            }
+        }
+    },
+    "1722815072192506:486439": {
+        "IFileManager": {
+            "path": "Files/File_1722815072192506_486439.pvr"
+        }
+    }
+}

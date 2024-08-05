@@ -1,0 +1,39 @@
+{
+    "1717596836949799:119475": {
+        "IFileManager": {
+            "path": "Files/File_1717596836949799_119475"
+        }
+    },
+    "1717596836951978:119476": {
+        "IResourceController": {
+            "name": "FABRIC 1_FRONT_1848",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717596836951983:119477",
+            "fileId": "1717596836949799:119475",
+            "originalId": "1717596836980059:119481",
+            "publicId": "1717596837600659:119669",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1717596836951983:119477",
+            "name": "Files/File_1717596836949799_119475",
+            "flags": 1
+        }
+    },
+    "1717596836980059:119481": {
+        "IFileManager": {
+            "path": "Files/File_1717596836980059_119481.lsmat"
+        }
+    },
+    "1717596837600659:119669": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Meshes/Vestido2/Materials/FABRIC 1_FRONT_1848.lsmat",
+                "hash": "05e315d08744413a04f9c78bd591f5ec"
+            }
+        }
+    }
+}

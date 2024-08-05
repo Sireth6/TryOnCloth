@@ -1,0 +1,25 @@
+{
+    "1719970362285480:401664": {
+        "IResourceController": {
+            "name": "Try On Pack - Hoodie",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1719970362285699:401665",
+            "resources": [
+                "1719970362287591:401666",
+                "1719970409035101:406792",
+                "1719970409247452:406923",
+                "1719970410942996:407216"
+            ]
+        }
+    },
+    "1719970362285699:401665": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - Hoodie"
+            }
+        }
+    }
+}

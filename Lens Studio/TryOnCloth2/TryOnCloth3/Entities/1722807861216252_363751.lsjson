@@ -1,0 +1,38 @@
+{
+    "1722807861211595:363750": {
+        "IFileManager": {
+            "path": "Files/File_1722807861211595_363750.js"
+        }
+    },
+    "1722807861216252:363751": {
+        "IResourceController": {
+            "name": "ButtonScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1722807861216287:363752",
+            "fileId": "1722807861211595:363750",
+            "publicId": "1722807861226580:363757",
+            "expected_hash": "49af3679e727de47f2d406eb3c2e00f6"
+        },
+        "IResourceManager": {
+            "uid": "1722807861216287:363752",
+            "name": "Files/File_1722807861211595_363750.js",
+            "flags": 1
+        }
+    },
+    "1722807861216287:363752": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1722807861226580:363757": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ButtonScript.js",
+                "hash": "49af3679e727de47f2d406eb3c2e00f6"
+            }
+        }
+    }
+}
