@@ -67,6 +67,9 @@ Importar Modelos y Texturas
 Coloca tus modelos 3D y texturas en la carpeta assets.
 En Lens Studio, importa estos archivos desde la carpeta assets.
 
+## Actualización
+Se intentó agregar un botón con la leyenda "Shop Now" con un script, el cual su función sería abrir la página web de la tienda de ropa que estuviera promocionando las prendas, pero hubo intentos fallidos, al investigar más afondo se encontró que el propio software todavía no tiene esa función. Mientras tanto se agregó un enlace escrito de la tienda de ropa, la otra opción sería agregar un "Swipe Up" en una historia con ese filtro para abrir la página web.
+
 Resumen
 Este proyecto de Lens Studio permite a los usuarios cambiar la ropa de un avatar tocando la pantalla. Siguiendo los pasos anteriores, puedes configurar y desarrollar esta funcionalidad en tu propio filtro de Snapchat.
 
